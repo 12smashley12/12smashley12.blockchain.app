@@ -9,7 +9,7 @@ Download and extract a zip file of the code.
 
 Open the folder containing the project in VS Code.
 
-Open a new terminal window and run 'npm install' to install all node packages.
+Open a new terminal window and run `npm install` to install all node packages.
 
 Run `ng serve` for a dev server.
 
